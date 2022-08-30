@@ -19,7 +19,7 @@ public class Main {
 
 //        File file = new File("D:/test/ta/ha.txt");
 //        file.mkdirs();
-        System.out.println("merge");
+        System.out.println("ha");
 
     }
 }
